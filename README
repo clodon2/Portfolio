@@ -1,8 +1,7 @@
 # Portfolio
 This repository is for my best/most important work created at James Rumsey Technical Institute and Marietta College.
 
-SkillsUSA-main.zip - Game made for the Skills USA competition in cooperation with a fellow classmate. I developed a cellular automata to generate the levels,
-  coded the particle system, and coded in local multiplayer.
+SkillsUSA-main.zip - Game made for the Skills USA competition in cooperation with a fellow classmate. I developed a cellular automata to generate the levels, coded the particle system, and coded in local multiplayer.
 BlockJumper.zip - Game made in pygame, developed own physics engine and random generation (JRTI)
 CSCI115MixedProject.zip - GUI that allows for image file selection, laoding, and manipulation, api calling, and various other things
 VirusAvoider.zip - gmae made with pygame, uses a database for leaderboard info. developed custom GUI system
